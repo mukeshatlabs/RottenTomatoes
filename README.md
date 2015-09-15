@@ -17,3 +17,5 @@ Required
 [done] User can pull to refresh the movie list.
 
 continueing to work on the optonal stories.
+
+![Video Walkthrough](rotten.gif)
